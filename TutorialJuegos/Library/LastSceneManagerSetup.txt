@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/mapeado.unity
+- path: Assets/Scenes/creditos.unity
   isLoaded: 1
   isActive: 1
